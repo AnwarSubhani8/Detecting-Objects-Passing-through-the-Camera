@@ -9,18 +9,28 @@ To detect the object, we have initialized the list of the 21 class labels Mobile
 Modules
 
 Installation of Numpy module
+
 Installation of imutils module
+
 Installation of argparse module
+
 Installation of OpenCV module
+
 Installation of time module
+
 
 Applications
 
 Activity Recognition
+
 Road condition monitoring
+
 Traffic flow monitoring
+
 Crowdedness estimation
+
 Product counting in manufacturing industries.
+
 
 Conclusion
 
